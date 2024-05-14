@@ -1,0 +1,6 @@
+.vscode
+.idea
+storage
+uploads
+node_modules
+.env
